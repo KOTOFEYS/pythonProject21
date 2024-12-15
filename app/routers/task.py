@@ -11,7 +11,7 @@ async def task_by_id():
     pass
 
 @router.post("/create")
-async def creaty_task():
+async def create_task():
     pass
 
 @router.put("/update")
